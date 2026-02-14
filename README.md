@@ -17,14 +17,10 @@ Department of Politics and Economics, Ankara University
 ---
 # Course Overview
 
-This course is based on the simple claim that the newest idea in economics is not necessarily
-the best idea ever. Since the sixteenth century, economists have expressed many ideas that are
-better than the ideas that economists express today. In other words, economic ideas evolve
-and the evolution of economic ideas does not always give rise to the more powerful
-explanations of the economy. To be able to understand the evolutionary nature of economic
-ideas, we will aim to answer the following questions:
-1) What was the significance of the
-Economic Revolution that took place in the sixteenth century?
+This course is based on the simple claim that the newest idea in economics is not necessarily the best idea ever. Since the sixteenth century, economists have expressed many ideas that are
+better than the ideas that economists express today. In other words, economic ideas evolve and the evolution of economic ideas does not always give rise to the more powerful
+explanations of the economy. To be able to understand the evolutionary nature of economic ideas, we will aim to answer the following questions:
+1) What was the significance of the Economic Revolution that took place in the sixteenth century?
 2) What were the unique features of the Mercantile era?
 3) What did the Classical Political Economists of the nineteenth century argue?
 4) How did the Marginal Revolution and Neo-Classical School transform the methodology of economic science in the twentieth century?
